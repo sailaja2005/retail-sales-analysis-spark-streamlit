@@ -5,7 +5,9 @@ This project analyzes retail sales data using PySpark for efficient processing a
 * Total sales, profit, and customer counts
 * Top-performing countries, products, and customers
 * Sales distribution across categories
-How to Run
+
+
+How to Run:
 
 1.Clone the repository:
    ```bash
