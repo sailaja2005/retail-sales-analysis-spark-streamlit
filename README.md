@@ -9,8 +9,8 @@ This project analyzes retail sales data using PySpark for efficient processing a
 
 How to Run:
 
-1.Clone the repository:
-   ```bash
+
+  1.Cloning ```bash
    git clone [https://github.com/sailaja2005/retail-sales-analysis-spark-streamlit.git](https://github.com/sailaja2005/retail-sales-analysis-spark-streamlit.git)
 Navigate to the project directory:
 
